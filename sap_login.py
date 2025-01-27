@@ -22,7 +22,3 @@ print(result)
 cursor.close()
 conn.close()
 
-
-
-
-#test setup 01
