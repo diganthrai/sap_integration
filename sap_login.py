@@ -21,4 +21,8 @@ print(result)
 # Close the connection
 cursor.close()
 conn.close()
-#commit
+
+
+
+
+#test setup 01
