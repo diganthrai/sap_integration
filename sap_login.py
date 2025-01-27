@@ -21,3 +21,4 @@ print(result)
 # Close the connection
 cursor.close()
 conn.close()
+#commit
