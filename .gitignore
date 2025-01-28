@@ -4,3 +4,5 @@ Sap/pyvenv.cfg
 
 # Ignore the Sap/Lib directory and its contents
 Sap/Lib/
+
+Sap/Scripts/
