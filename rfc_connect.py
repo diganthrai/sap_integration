@@ -1,3 +1,6 @@
+#We need  to  Install the SAP NetWeaver RFC SDK
+
+
 from pyrfc import Connection
 
 
