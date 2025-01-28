@@ -1,0 +1,6 @@
+.env
+# Ignore the pyvenv.cfg file
+Sap/pyvenv.cfg
+
+# Ignore the Sap/Lib directory and its contents
+Sap/Lib/
